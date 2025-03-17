@@ -1,25 +1,3 @@
-<h1 align="center">
-<a href='#'><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="600px"/></a>
-  <br>
-  <br>
-  <div>
-    <a href="https://github.com/redyf/Neve/issues">
-        <img src="https://img.shields.io/github/issues/redyf/Neve?color=fab387&labelColor=303446&style=for-the-badge">
-    </a>
-    <a href="https://github.com/redyf/Neve/stargazers">
-        <img src="https://img.shields.io/github/stars/redyf/Neve?color=ca9ee6&labelColor=303446&style=for-the-badge">
-    </a>
-    <a href="https://github.com/redyf/Neve">
-        <img src="https://img.shields.io/github/repo-size/redyf/Neve?color=ea999c&labelColor=303446&style=for-the-badge">
-    </a>
-    <a href="https://github.com/redyf/Neve/blob/main/LICENCE">
-        <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=ca9ee6&colorA=313244&colorB=cba6f7"/>
-    </a>
-    <br>
-            <img href="https://builtwithnix.org" src="https://builtwithnix.org/badge.svg"/>
-    </div>
-   </h1>
-
 <h1 align="center">❄️ Neve ❄️</h1>
 <h3 align="center">
 
@@ -134,7 +112,7 @@ To disable all UI plugins for example, you can easily do it by going to config/d
 
 3- Make the changes you want, such as enabling/disabling plugins, changing colorschemes, neovim options, etc.
 
-4- Add the fork to your flake.nix file, the original is `Neve.url = “github:redyf/Neve”`. If a user called foo forks the repo and renames it to bar, it would be `bar.url = “github:foo/bar”`.
+4- Add the fork to your flake.nix file, the original is `Neve.url = “github:thapasijan17/Neve”`. If a user called foo forks the repo and renames it to bar, it would be `bar.url = “github:foo/bar”`.
 
 5- Update your inputs and install the fork with `inputs.Neve.packages.${pkgs.system}.default`.
 
@@ -158,14 +136,10 @@ Neve is highly customizable. Here are some important files for configuring your 
 
 ## Contribution
 
-Contributions are welcome! Feel free to [open an issue](https://github.com/redyf/Neve/issues) to report problems, suggest improvements, or submit pull requests to add new features to Neve.
-
-## License
-
-This project is licensed under the [MIT License](LICENCE). See the LICENSE file for more details.
+Contributions are welcome! Feel free to [open an issue](https://github.com/thapasijan17/Neve/issues) to report problems, suggest improvements, or submit pull requests to add new features to Neve.
 
 ## Support
 
-Encountered an issue or have a question? Visit our [Issue Tracker](https://github.com/redyf/Neve/issues) or message me on Discord, my username is **redyf**.
+Encountered an issue or have a question? Visit our [Issue Tracker](https://github.com/thapasijan17/Neve/issues) or message me on Discord, my username is **redyf**.
 
 Happy coding!
