@@ -34,7 +34,7 @@
               "           ░    ░  ░     ░     ░  ░  "
               "                        ░            "
               "                                     "
-              "      git@github.com:redyf/neve      "
+              "      git@github.com:thapasijan17/neve      "
             ];
           }
           (padding 2)
