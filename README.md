@@ -4,7 +4,6 @@
 <details>
     <summary>Showcase</summary>
 
-![Neve](./assets/showcase1.png)
 ![Neve2](./assets/showcase2.png)
 ![Neve3](./assets/showcase3.png)
 ![Neve4](./assets/showcase4.png)
